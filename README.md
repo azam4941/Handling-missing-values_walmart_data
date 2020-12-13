@@ -1,5 +1,5 @@
 # handling-missing-values
-missing values handle by fill all missing value by three technique
+missing values handle  fill all missing value by three techniques
 
 1) simple fillna(0) or any requerie values depend upon the given data
 
